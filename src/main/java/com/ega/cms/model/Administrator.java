@@ -14,3 +14,4 @@ public class Administrator extends User {
         System.out.println("Deleting content: " + content.getTitle());
     }
 }
+
